@@ -1,30 +1,41 @@
-# Hi, I'm Ditya Verma! 👋
+# Hi there, I'm Aditya 👋
 
-Full Stack Developer passionate about creating innovative web applications and exploring AI/ML technologies.
+**Web Developer | AI & ML Learner | Blockchain Enthusiast**
 
-## Tech Stack
+---
 
-```javascript
-const techStack = {
-  languages: ['JavaScript', 'TypeScript', 'Python', 'Java', 'C++'],
-  frontend: ['React', 'Next.js', 'Vue.js', 'TailwindCSS'],
-  backend: ['Node.js', 'Express.js', 'Django', 'FastAPI'],
-  databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
-  cloud: ['AWS', 'Docker', 'Kubernetes']
+## 🚀 About Me
+
+Focused on building real-world skills and continuously learning.  
+Currently exploring full stack development, AI/ML foundations, and blockchain technology.
+
+---
+
+## 🛠️ Tech Stack
+
+```js
+const aditya = {
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript (basic)"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express"],
+  database: ["MongoDB"],
+  ai_ml: ["Python (basics)", "ML (basics)"],
+  blockchain: ["Learning fundamentals & dApps"]
 };
 ```
 
-## Highlights
+---
 
-- 🔭 Working on cutting-edge web applications
-- 🌱 Learning advanced AI/ML concepts
-- 👯 Open to collaborating on innovative projects
-- 💬 Ask me about React, Node.js, Python, AI/ML
-- ⚡ Fun fact: I code better with coffee ☕
+## ✨ Highlights
 
-## Connect
+- 💡 Lifelong learner in web, AI/ML, and blockchain technologies
+- 🛠️ Enjoy working with React, Next.js, and Tailwind CSS
+- 🤝 Open for collaboration and connecting with fellow developers
 
-- [LinkedIn](https://linkedin.com/in/dityaverma)
-- [Twitter](https://twitter.com/dityaverma)
-- [Portfolio](https://dityaverma.dev)
-- [Email](mailto:dityaverma@example.com)
+---
+
+<!--
+## 📂 Projects
+
+*Projects will be added soon. Stay tuned!*
+-->
