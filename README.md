@@ -7,8 +7,7 @@
   <a href="mailto:adityamahiverma@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/dityaverma" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div><div align="center">
-[💼 LinkedIn](https://www.linkedin.com/in/aditya-verma-2a4638323/) • [📧 Email](mailto:adityamahiverma@gmail.com) • [🐙 GitHub](https://github.com/dityaverma)<br />
-
+<a href="https://www.linkedin.com/in/aditya-verma-2a4638323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a> <a href="mailto:adityamahiverma@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"></a> <a href="https://github.com/dityaverma" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"></a>
 <div align="center">
   <b>📍 Based in Delhi • 🎓 B.Tech CSE @ Bennett University (AI/ML Specialization) • 💻 Grinding Code 24/7</b>
 </div>
