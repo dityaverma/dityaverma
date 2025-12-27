@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&width=800&lines=Hey%2C+I'm+Aditya+Verma+👨%E2%80%8D💻;Full-Stack+%7C+AI%2FML+%7C+Backend+Architect" alt="Typing SVG" />
-</div>
+<img align="center" alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;AI%2FML+Enthusiast;Backend+Architect;Always+Learning&font=JetBrains+Mono&center=true&width=500&height=60&color=00D9FF" /></div>
 
 <div align="center">
   <a href="https://linkedin.com/in/dityaverma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
