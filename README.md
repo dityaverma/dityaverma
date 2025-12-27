@@ -1,4 +1,17 @@
-<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1a3e 50%, #0a0e27 100%); padding: 60px 20px; border-radius: 10px; margin-bottom: 30px; position: relative; overflow: hidden;"><div style="position: absolute; top: -50px; right: -50px; width: 200px; height: 200px; background: #06b6d4; border-radius: 50%; opacity: 0.3;"></div><div style="position: absolute; bottom: -30px; left: -30px; width: 150px; height: 150px; background: #a855f7; border-radius: 50%; opacity: 0.3;"></div><h1 style="color: #a855f7; font-size: 56px; margin: 20px 0 0 0; font-weight: 900; position: relative; z-index: 1;">Aditya Verma</h1><p style="color: #06b6d4; font-size: 20px; letter-spacing: 3px; margin: 10px 0; position: relative; z-index: 1; font-weight: 300;">FULL-STACK DEVELOPER</p><div style="display: flex; justify-content: center; gap: 20px; margin-top: 25px; position: relative; z-index: 1;"><a href="mailto:adityamahiverma@gmail.com" style="background: rgba(255, 255, 255, 0.1); border: 2px solid #a855f7; color: #a855f7; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-size: 14px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease;">✉️ adityamahiverma@gmail.com</a></div></div>
+<div align="center" style="position: relative; width: 100%; height: auto; margin-bottom: 30px; overflow: hidden; background: linear-gradient(135deg, #0a0e27 0%, #1a1a3e 50%, #0a0e27 100%); padding: 40px 20px; border-radius: 15px;">
+  <div style="position: absolute; top: -50px; right: -50px; width: 200px; height: 200px; background: #00d9ff; border-radius: 50%; opacity: 0.2;"></div>
+  <div style="position: absolute; bottom: -30px; left: -30px; width: 150px; height: 150px; background: #6d28d9; border-radius: 50%; opacity: 0.2;"></div>
+  <div style="position: relative; z-index: 1;">
+    <h1 style="color: #a78bfa; font-size: 48px; margin: 0; font-weight: 900; letter-spacing: 2px;">Aditya Verma</h1>
+    <p style="color: #00d9ff; font-size: 18px; margin: 8px 0 0 0; letter-spacing: 3px; font-weight: 300;">FULL-STACK DEVELOPER</p>
+    <div style="margin-top: 20px;">
+      <a href="mailto:adityamahiverma@gmail.com" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.1); border: 2px solid #a78bfa; color: #a78bfa; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-size: 13px; transition: all 0.3s ease;">
+        ✉️ adityamahiverma@gmail.com
+      </a>
+    </div>
+  </div>
+</div>
+
 
 <img align="center" alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;AI%2FML+Enthusiast;Backend+Architect;Always+Learning&font=JetBrains+Mono&center=true&width=500&height=60&color=00D9FF" /></div>
 
