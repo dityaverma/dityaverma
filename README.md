@@ -6,7 +6,6 @@
     <p style="color: #00d9ff; font-size: 18px; margin: 8px 0 0 0; letter-spacing: 3px; font-weight: 300;">FULL-STACK DEVELOPER</p>
     <div style="margin-top: 20px;">
       <a href="mailto:adityamahiverma@gmail.com" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.1); border: 2px solid #a78bfa; color: #a78bfa; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-size: 13px; transition: all 0.3s ease;">
-        ✉️ adityamahiverma@gmail.com
       </a>
     </div>
   </div>
