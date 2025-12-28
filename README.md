@@ -141,9 +141,9 @@ I'm a **2nd-year Computer Science student** obsessed with building scalable syst
   
 ✅ **12+ hours daily coding** — Intensive development & learning  
 ✅ **Open Source Contributor** — Active GitHub presence  
-✅ **Hackathon Enthusiast** — SIH 2025 & competitive events  
+✅ **Hackathon Enthusiast** — competitive events  
 ✅ **BuildInPublic** — Sharing progress on social media  
-✅ **AI Power User** — ChatGPT, Cursor AI, v0  
+
 
 </div>
 
