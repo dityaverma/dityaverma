@@ -57,7 +57,6 @@
 <a href='' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=plastic&logo=Medium&logoColor=000000&labelColor=475AC7&color=475AC7'/></a>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21453213/bharat2044)
 <a href='' target="_blank"><img alt='hashnode' src='https://img.shields.io/badge/Hashnode-100000?style=plastic&logo=hashnode&logoColor=1D1AF1&labelColor=FFFFFF&color=FFFFFF'/></a>
-[![Discord]() 
 <a href="" target="_blank"><img alt='leetCODE' src='https://img.shields.io/badge/Leetcode-100000?style=plastic&logo=leetCODE&logoColor=000000&labelColor=F09A1A&color=FFFFFF'/></a>
 <a href='' target="_blank"><img alt='codechef' src='https://img.shields.io/badge/Codechef-100000?style=plastic&logo=codechef&logoColor=6E3A1B&labelColor=D7D4D4&color=FFFFFF'/></a>
 <a href='' target="_blank"><img alt='scaler' src='https://img.shields.io/badge/InterviewBit-100000?style=plastic&logo=scaler&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
