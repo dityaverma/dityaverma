@@ -1,190 +1,92 @@
-<div align="center" style="position: relative; width: 100%; height: auto; margin-bottom: 30px; overflow: hidden; background: linear-gradient(135deg, #0a0e27 0%, #1a1a3e 50%, #0a0e27 100%); padding: 40px 20px; border-radius: 15px;">
-  <div style="position: absolute; top: -50px; right: -50px; width: 200px; height: 200px; background: #00d9ff; border-radius: 50%; opacity: 0.2;"></div>
-  <div style="position: absolute; bottom: -30px; left: -30px; width: 150px; height: 150px; background: #6d28d9; border-radius: 50%; opacity: 0.2;"></div>
-  <div style="position: relative; z-index: 1;">
-    <h1 style="color: #a78bfa; font-size: 48px; margin: 0; font-weight: 900; letter-spacing: 2px;">Aditya Verma</h1>
-    <p style="color: #00d9ff; font-size: 18px; margin: 8px 0 0 0; letter-spacing: 3px; font-weight: 300;">FULL-STACK DEVELOPER</p>
-    <div style="margin-top: 20px;">
-      <a href="mailto:adityamahiverma@gmail.com" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.1); border: 2px solid #a78bfa; color: #a78bfa; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-size: 13px; transition: all 0.3s ease;">
-      </a>
-    </div>
-  </div>
+<div align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning&font=JetBrains+Mono&center=true&width=600&height=100&color=00D9FF&vCenter=true&size=35" alt="Typing SVG" />
+</p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <h1> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aditya Verma </h1>
+</p>
+</div>
+
+## 🧑‍💻 &nbsp;About Me
+
+💡 &nbsp;I am a **Full-Stack Developer & AI/ML Learner** specializing in building scalable web applications using **React, Node.js, Express, and modern technologies**. \
+🎓 &nbsp;Currently pursuing **B.Tech CSE (AI/ML Specialization)** at **Bennett University** (2nd Year). \
+🌱 &nbsp;Enhancing my expertise in **Backend Development, Machine Learning, and System Design**. \
+💪 &nbsp;I enjoy **problem-solving, competitive coding** on **LeetCode**, and contributing to **open-source projects**. \
+🔎 &nbsp;Always curious about **research, innovation, and emerging technologies** like **Web3 and Blockchain**. \
+✉️ &nbsp;How to reach me: **adityamahiverma@gmail.com**
+
+
+## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dityaverma&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dityaverma&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dityaverma&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 
 
-<img align="center" alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;AI%2FML+Enthusiast;Backend+Architect;Always+Learning&font=JetBrains+Mono&center=true&width=500&height=60&color=00D9FF" /></div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/dityaverma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:adityamahiverma@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/dityaverma" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div><div align="center">
-<div align="center">
-  <b>📍 Based in Delhi • 🎓 B.Tech CSE @ Bennett University (AI/ML Specialization) • 💻 Grinding Code 24/7</b>
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a **2nd-year Computer Science student** obsessed with building scalable systems and solving complex problems. My journey spans **full-stack development**, **machine learning**, **backend architecture**, and exploring **emerging technologies**.
-
-> **"Code is poetry, systems are architecture, and problems are puzzles waiting to be solved."**
-
-🔥 **Currently mastering:** Backend technologies • Full-stack development • System Design • ML fundamentals
-
----
-
-## 💻 Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <b>Languages</b><br><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-    </td>
-    <td align="center" width="33%">
-      <b>Backend & Frameworks</b><br><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/RESTful%20APIs-FF6B6B?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-    </td>
-    <td align="center" width="33%">
-      <b>Frontend & Tools</b><br><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Core Competencies
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>⚙️ Backend Architecture</h4>
-      <ul>
-        <li>Scalable server-side architecture</li>
-        <li>RESTful API design & microservices</li>
-        <li>Database design & optimization</li>
-        <li>Authentication & security best practices</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>📊 Problem Solving</h4>
-      <ul>
-        <li>Data Structures & Algorithms (DSA)</li>
-        <li>System Design & Architecture</li>
-        <li>Performance optimization</li>
-        <li>Competitive programming (LeetCode, CodeChef)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🤖 AI/ML Fundamentals</h4>
-      <ul>
-        <li>Machine Learning model development</li>
-        <li>Data preprocessing & feature engineering</li>
-        <li>Model evaluation & optimization</li>
-        <li>Python for data science</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>🔗 Full-Stack Development</h4>
-      <ul>
-        <li>Frontend: React, Next.js, Tailwind</li>
-        <li>Backend: Node.js, Express, Spring Boot</li>
-        <li>Database: MongoDB, SQL</li>
-        <li>Deployment & DevOps basics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Featured Projects
+## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|----------|
-| 🌾 **Dynamic Crop/Item Price Prediction** | ML models for agricultural price forecasting with multiple algorithms, data preprocessing & feature engineering | Python, ML, scikit-learn, pandas |
-| 💧 **AquaSure** | Full-stack environmental monitoring system for water quality analysis using Heavy Metal Pollution Index with data visualization | Full-Stack, React, Node.js, MongoDB |
-| 🎵 **Music Playlist Analysis** | Integrated Spotify & YouTube APIs for playlist analytics, recommendations, and music metadata extraction | API Integration, Python, Data Analysis |
+| 🌾 **Dynamic Crop/Item Price Prediction** | ML-based agricultural price forecasting system with multiple algorithms | Python, scikit-learn, pandas, NumPy |
+| 💧 **AquaSure** | Water quality analysis system using Heavy Metal Pollution Index | React, Node.js, Express, MongoDB |
+| 🎵 **Music Playlist Analysis** | Spotify & YouTube API integration for playlist analytics | Python, APIs, Data Analysis |
 
----
 
-## 📊 GitHub Metrics
+## **🌐 Connect With Me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dityaverma/)
+[![Twitter (X)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/dityaverma) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dityaverma)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamahiverma@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/dityaverma)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dityaverma)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dityaverma)
+
+
+## 📈 Profile Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dityaverma&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dityaverma&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=dityaverma&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
-
-## 🌟 Key Highlights
-
-<div align="center">
-  
-✅ **12+ hours daily coding** — Intensive development & learning  
-✅ **Open Source Contributor** — Active GitHub presence  
-✅ **Hackathon Enthusiast** — competitive events  
-✅ **BuildInPublic** — Sharing progress on social media  
-
-
-</div>
-
----
-
-## 🎯 What I'm Currently Learning
-
-- 🔥 Advanced backend system design & microservices architecture
-- 📚 ML model implementation & deployment
-- 🏗️ Building production-ready full-stack applications
-- 🤝 Contributing to meaningful open-source projects
-- 🌐 Web3 fundamentals & smart contracts
-
----
-
-## 💡 Philosophy
-
-<blockquote>
-  <p><i>
-    I believe in writing clean, efficient code that scales. I'm passionate about solving complex problems,
-    learning emerging technologies, and building systems that make a real impact.
-    Every line of code is a step towards mastery.
-  </i></p>
-</blockquote>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-  <p>
-    <strong>Always open to collaborations, discussions, and exciting projects!</strong><br>
-    <a href="https://linkedin.com/in/dityaverma">💼 LinkedIn</a> • 
-    <a href="mailto:adityamahiverma@gmail.com">📧 Email</a> • 
-    <a href="https://github.com/dityaverma">🐙 GitHub</a>
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dityaverma&color=00D9FF&style=flat" alt="Profile Views" />
-</div>
 
 <div align="center">
   <strong>⭐ If you find my work interesting, feel free to star my repositories!</strong>
