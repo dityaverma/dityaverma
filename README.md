@@ -54,11 +54,11 @@
 ## **🌐 Connect With Me:**
 [![Twitter (X)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xLemma)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-verma-2a4638323/)
-<a href='https://medium.com/@Bharat2044' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=plastic&logo=Medium&logoColor=000000&labelColor=475AC7&color=475AC7'/></a>
+<a href='' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=plastic&logo=Medium&logoColor=000000&labelColor=475AC7&color=475AC7'/></a>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21453213/bharat2044)
-<a href='https://hashnode.com/@Bharat2044' target="_blank"><img alt='hashnode' src='https://img.shields.io/badge/Hashnode-100000?style=plastic&logo=hashnode&logoColor=1D1AF1&labelColor=FFFFFF&color=FFFFFF'/></a>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@Bharat2044) 
-<a href="https://www.leetcode.com/bharat2044" target="_blank"><img alt='leetCODE' src='https://img.shields.io/badge/Leetcode-100000?style=plastic&logo=leetCODE&logoColor=000000&labelColor=F09A1A&color=FFFFFF'/></a>
-<a href='https://www.codechef.com/users/bharat_2044' target="_blank"><img alt='codechef' src='https://img.shields.io/badge/Codechef-100000?style=plastic&logo=codechef&logoColor=6E3A1B&labelColor=D7D4D4&color=FFFFFF'/></a>
-<a href='https://www.interviewbit.com/profile/Bharat2044/' target="_blank"><img alt='scaler' src='https://img.shields.io/badge/InterviewBit-100000?style=plastic&logo=scaler&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
-<a href='https://codeforces.com/profile/Bharat2044' target="_blank"><img alt='codeforces' src='https://img.shields.io/badge/CodeForces-100000?style=plastic&logo=codeforces&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='' target="_blank"><img alt='hashnode' src='https://img.shields.io/badge/Hashnode-100000?style=plastic&logo=hashnode&logoColor=1D1AF1&labelColor=FFFFFF&color=FFFFFF'/></a>
+[![Discord]() 
+<a href="" target="_blank"><img alt='leetCODE' src='https://img.shields.io/badge/Leetcode-100000?style=plastic&logo=leetCODE&logoColor=000000&labelColor=F09A1A&color=FFFFFF'/></a>
+<a href='' target="_blank"><img alt='codechef' src='https://img.shields.io/badge/Codechef-100000?style=plastic&logo=codechef&logoColor=6E3A1B&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='' target="_blank"><img alt='scaler' src='https://img.shields.io/badge/InterviewBit-100000?style=plastic&logo=scaler&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='' target="_blank"><img alt='codeforces' src='https://img.shields.io/badge/CodeForces-100000?style=plastic&logo=codeforces&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
