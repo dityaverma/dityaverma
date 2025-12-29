@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a **Full-Stack Java Developer** specializing in building scalable web applications using **Java, Spring Boot, and modern frontend technologies**. \
+💡 &nbsp;I am a **Full-Stack  Developer** specializing in building scalable web applications using **JavaScript and its libraries,Typescript, and modern frontend technologies**. \
 🌱 &nbsp;Currently enhancing my expertise in **DevOps and Cloud computing**. \
 💪 &nbsp;I enjoy **problem-solving, competitive coding**, and contributing to **open-source projects**. \
 🔎 &nbsp;Always curious about **research, innovation, and new technologies**. \
