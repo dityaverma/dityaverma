@@ -16,7 +16,7 @@
 🌱 &nbsp;Currently enhancing my expertise in **DevOps and Cloud computing**. \
 💪 &nbsp;I enjoy **problem-solving, competitive coding**, and contributing to **open-source projects**. \
 🔎 &nbsp;Always curious about **research, innovation, and new technologies**. \
-✉️ &nbsp;How to reach me: **bharatkumar204451@gmail.com**
+✉️ &nbsp;How to reach me: **adityamahiverma@gmail.com**
 
 
 ## 🔧 Technologies & Tools
